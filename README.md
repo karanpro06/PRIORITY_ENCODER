@@ -37,3 +37,5 @@ endmodule
 
 ### OUTPUT WAVEFORM:
 ![image](https://github.com/DSVishal0407/VLSI-LAB-EXP-2/assets/163637297/c18ca185-b883-4d1e-a44c-689c903176a4)
+### RESULT:
+Thus the Priority encoder is verified successfully.
